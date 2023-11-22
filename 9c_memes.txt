@@ -1,0 +1,6 @@
+Simon = ["Chaya Maja.", "Du kleiner Wasserfall."]
+Gurman = ["Die Norrra hat meinen Taschenrrrechnerr geklaut."]
+Nora = ["Lfff", "So lllustig"]
+Patrik = ["Je ne parle pas France.", "Je suis Patrik."]
+Sohan = ["Ich bin der Sohan."]
+Arya = ["So lllustig"]

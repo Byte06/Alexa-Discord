@@ -1,0 +1,24 @@
+# heroku discord-bot-0086 requirements.txt
+pip
+discord
+discord.py[voice]
+discord-py-slash-command
+discord-py-interactions
+ffmpeg
+gTTS
+requests
+mutagen
+youtube_dl
+PyNacl
+asyncio
+replit
+Wikipedia-API
+pytz
+Flask
+Pillow
+instagramy
+cffi>=1.4.1
+certifi>=2020.12.5
+# flask
+# waitress
+# wireguard==0.2.5

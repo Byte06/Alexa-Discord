@@ -1,0 +1,20 @@
+# Amazon Alexa#0086 requirements.txt
+pip>=22.0.4
+discord>=1.7.3
+discord.py[voice]
+ffmpeg
+gTTS>=2.2.4
+requests>=2.26.0
+mutagen>=1.45.1
+youtube_dl>=2021.12.17
+PyNacl>=1.5.0
+asyncio>=3.4.3
+replit>=3.2.4
+Wikipedia-API>=0.4.4
+pytz>=2021.3
+Flask>=2.1.0
+PyNacl>=1.4.0
+replit>=3.2.4
+cffi>=1.4.1
+certifi>=2020.12.5
+# wireguard==0.2.5
